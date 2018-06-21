@@ -15,3 +15,5 @@ Data are then stored in `synsets.json`. This file is used as datasource for next
 npm install
 npm run dev
 ```
+
+You can see the result on https://elegant-einstein-e00108.netlify.com/
